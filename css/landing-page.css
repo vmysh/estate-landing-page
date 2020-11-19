@@ -19,9 +19,9 @@ h6 {
 }
 
 header.masthead {
-  position: relative;
-  background-color: #343a40;
-  background: url("../img/marble_2.jpg") no-repeat center center;
+  position: center;
+  background-color: #518eca;
+  background: url("../img/bg-masthead.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -29,7 +29,7 @@ header.masthead {
 
 header.masthead .overlay {
   position: absolute;
-  background-color: #212529;
+  background-color: #ffffff;
   height: 100%;
   width: 100%;
   top: 0;
@@ -103,7 +103,7 @@ header.masthead h1 {
 
 .call-to-action {
   position: relative;
-  background-color: #343a40;
+  background-color: #9fbddb;
   background: url("../img/marble_2.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 7rem;
